@@ -43,12 +43,12 @@ WiFiClientSecure clientTCP;
 // ===========================
 // Enter your WiFi credentials
 // ===========================
-const char *ssid = "project";
-const char *password = "password";
+const char *ssid = "Your Wifi SSid";
+const char *password = " your password";
 
 // Telegram Bot credentials
-const String botToken = "7148033363:AAHZfUcSa_3pCXpKfwmNqD8Qh7nfmtr2je8";
-const String chatID = "5796273250";
+const String botToken = "Your bot Token";
+const String chatID = "Your chatID";
 
 const int buttonPin = 14;  // GPIO14 (D14)
 bool buttonState = LOW;
